@@ -1,1 +1,3 @@
+ insert > add > coomit > push > 
+
 created ex1.txt
