@@ -1,3 +1,4 @@
-
+ insert > add > coomit > push > 
 
 created ex1.txt
+Hello everyone. This is Surya. Just for practice
